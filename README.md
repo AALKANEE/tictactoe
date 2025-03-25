@@ -40,8 +40,5 @@ Choose your move (1-9):
 - The computer plays strategically by blocking the player and prioritizing winning moves.
 - The game board updates dynamically after each move.
 
-## License
-This project is open-source and available for use under the MIT License.
 
-Enjoy playing Tic-Tac-Toe! 🎮
 
